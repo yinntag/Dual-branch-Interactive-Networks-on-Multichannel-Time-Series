@@ -1,1 +1,1 @@
-# Dual-branch-Interactive-Networks-on-Multichannel-Time-Series
+# Dual branch Interactive Networks on Multichannel Time Series
